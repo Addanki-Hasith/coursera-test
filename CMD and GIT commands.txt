@@ -1,0 +1,14 @@
+cls -->> to clear cmd
+ctrl c -->> to stop Browser Sync
+TO CHANGE From 'C' drive to 'D' drive:
+cd\
+cd windows
+d:
+
+GIT Commands
+
+git status
+git add *
+git add "Browser Sync Commands.txt"
+git commit -m "Browser Sync commands are added"
+git push
