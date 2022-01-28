@@ -3,6 +3,7 @@ mkdir -->> to make a new directory
 cd "directory name" -->> to move into the nested directory
 cls -->> to clear cmd
 ctrl c -->> to stop Browser Sync
+
 TO CHANGE From 'C' drive to 'D' drive:
 cd\
 cd windows
