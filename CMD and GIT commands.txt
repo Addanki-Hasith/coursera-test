@@ -11,6 +11,8 @@ d:
 
 GIT Commands
 
+git clone https://github.com/Addanki-Hasith/Automate-Boring-Stuff-with-Python.git
+
 git status
 git add *
 git add "Browser Sync Commands.txt"
